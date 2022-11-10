@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="profile_name">Your Name</string>
+    <string name="Title1">Education</string>
+    <string name="Title2">Experience</string>
+    <string name="Title3">Skills</string>
+    <string name="Text1">Example:\nBachelor of computer engineering, yale university (2026–2030)</string>
+    <string name="Text2">Example:\nResearch intern, Google (2027–2029)</string>
+    <string name="Text3">Example:\nTools:Eclipe, Junit, …\nLanguages:Javascript, Python, C, …</string>
+    <string name="Call">Call me</string>
+    <string name="phoneNumber">+989120123456</string>
+</resources>
